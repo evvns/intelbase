@@ -28,10 +28,10 @@ Intelbase is a successor to the old pwnmap OSINT framework I wrote back in 2022.
 
 ## Installation
 
-Install Intelbase with `git clone`. I recommended cloning the branch from Equation Softworks ([here](https://github.com/equationsoftworks/intelbase)) as it will be updated more frequently.
+Install Intelbase with `git clone`. 
 
 ```bash
-git clone https://github.com/equationsoftworks/intelbase
+git clone https://github.com/evvns/intelbase
 python primary.py
 ```
     
