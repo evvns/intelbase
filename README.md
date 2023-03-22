@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://drive.lulzb.in/file.php?q=63ff51e0122f8.png">
+<img src="logo.svg" height=230>
 </p>
 
 <hr>
