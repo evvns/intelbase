@@ -44,6 +44,6 @@ python primary.py
 - Other cryptanalysis tools and bruteforcing suites
 
 
-![Logo](https://0day.cfd/logo.svg#gh-dark-mode-only)
-![Logo](https://files.doxbin.gg/6bwAVgZD.svg#gh-light-mode-only)
+<img src="https://0day.cfd/logo.svg#gh-dark-mode-only" height=300>
+<img src="https://files.doxbin.gg/6bwAVgZD.svg#gh-light-mode-only" height=300>
 
