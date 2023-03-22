@@ -7,7 +7,7 @@
 
 
 ## Intelbase 
-Advanced penetration testing and OSINT, cryptanalysis, kleptographic suite, steganographic analysis tool, data breach checkup suite and more.
+Intelbase is a successor to the old pwnmap OSINT framework I wrote back in 2022. Compared to pwnmap, intelbase features advanced penetration testing and OSINT, cryptanalysis, kleptographic suite, steganographic analysis tool, data breach checkup suite and more. 
 
 
 ## Authors
