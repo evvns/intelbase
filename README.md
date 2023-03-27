@@ -6,43 +6,11 @@
 
 
 
-## Intelbase 
-Intelbase is a successor to the old pwnmap OSINT framework I wrote back in 2022. Compared to pwnmap, intelbase features advanced penetration testing and OSINT, cryptanalysis, kleptographic suite, steganographic analysis tool, data breach checkup suite and more. 
+## Intelbase - Kappa κ
+IB_KAPPA/Intelbase Kappa/Kappa is an experimental branch for Intelbase. This should have experimental modules and the experimental IB_MODBUILDER framework in set. Please note that these are very early in development and may likely break during runtime.
 
 
-## Authors
-
-- [@evvns](https://www.github.com/evvns)
-- Threat
-- timecop
-
-
-
-## Features
-
-- Blockchain OSINT
-- Email OSINT
-- DB lookup with PRISMA
-- Cross platform
-
-
-## Installation
-
-Install Intelbase with `git clone`. 
-
-```bash
-git clone https://github.com/evvns/intelbase
-python primary.py
-```
-    
-## Roadmap
-
-- Web interface including a dashboard
-
-- Add more OSINT techniques imported and improved from the old pwnmap source code
-
-- Other cryptanalysis tools and bruteforcing suites
-
+2023 Equation Softworks
 
 <img src="https://0day.cfd/logo.svg" height=120>
 
